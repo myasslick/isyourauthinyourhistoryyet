@@ -1,2 +1,0 @@
-extensions: ["*.yml"]
-keywords: ["password", "secret_key", "auth_key", "api_key", "consumer_key", "access_key", "private_key"]
